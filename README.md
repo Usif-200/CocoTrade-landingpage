@@ -1,10 +1,10 @@
-# 🌐 Project: CocoTrade Landing Page
+# CocoTrade Landing Page
 
 **CocoTrade** is a polished, modern landing page designed to introduce a trading / financial platform with clarity, trust, and visual appeal.
 
 ---
 
-## ✨ Key Features & Highlights
+## Key Features & Highlights
 
 - **Hero / Intro Section** — Eye-catching title and subtitle that immediately convey the platform’s core value  
 - **Product / Service Overview** — Clear sections explaining what CocoTrade offers (e.g. trading tools, features, advantages)  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tech & Tools Used
+##  Tech & Tools Used
 
 - Frontend framework / library ( React, Next.js)  
 - CSS / SCSS / Styled Components / Tailwind
@@ -29,7 +29,7 @@
 
 ---
 
-## ✅ Why This Landing Page Stands Out
+##  Why This Landing Page Stands Out
 
 - It instantly communicates the platform’s value and direction  
 - It balances visual design and content to guide users naturally toward the CTA  
